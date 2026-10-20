@@ -8,6 +8,7 @@ if(start>=0&&end>start)html=html.slice(0,start)+html.slice(end+1);
 html=html.replace('Confirm a signing to remove a player from the shared board with an evidence link.','Verified signing announcements remove players through the research update.');
 fs.mkdirSync('pages',{recursive:true});
 fs.writeFileSync('pages/index.html',html);
+fs.writeFileSync('index.html',html.replace("fetch('./data.json'","fetch('./seed.json'"));
 fs.copyFileSync('seed.json','pages/data.json');
 fs.writeFileSync('pages/.nojekyll','');
 fs.writeFileSync('pages-check.js',html.match(/<script>([\s\S]*?)<\/script>/)[1]);
