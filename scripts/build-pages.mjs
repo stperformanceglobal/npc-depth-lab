@@ -1,0 +1,14 @@
+import fs from 'node:fs';
+let html=fs.readFileSync('ui.html','utf8');
+html=html.replace("fetch('/api/board'","fetch('./data.json'");
+html=html.replace('<button class="btn" id="removeplayer">Record confirmed 2027 signing</button><p class="note">Requires an announcement URL. This removes the player from the shared board and preserves an audit record.</p>','<p class="note">Contract announcements are applied through the verified daily research update. Saved watchlists stay on this device.</p>');
+const start=html.indexOf("$('#removeplayer').onclick=");
+const end=html.indexOf(";if(!$('#modal').open)",start);
+if(start>=0&&end>start)html=html.slice(0,start)+html.slice(end+1);
+html=html.replace('Confirm a signing to remove a player from the shared board with an evidence link.','Verified signing announcements remove players through the research update.');
+fs.mkdirSync('pages',{recursive:true});
+fs.writeFileSync('pages/index.html',html);
+fs.copyFileSync('seed.json','pages/data.json');
+fs.writeFileSync('pages/.nojekyll','');
+fs.writeFileSync('pages-check.js',html.match(/<script>([\s\S]*?)<\/script>/)[1]);
+console.log('Built GitHub Pages application');

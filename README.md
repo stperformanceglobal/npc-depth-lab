@@ -1,2 +1,42 @@
-# npc-depth-lab
-ST Performance Global NPC talent depth chart, player profiles and positional impact dashboard
+# NPC Depth Lab
+
+ST Performance Global's New Zealand NPC talent depth chart, with profiles, contract screening and a transparent positional impact model.
+
+Live application: https://npc-depth-lab.abloomgenet1.chatgpt.site
+
+The live application currently uses owner private hosting. This repository holds the dashboard source and a data snapshot. GitHub commits do not automatically deploy to the current host.
+
+## Source files
+
+* `ui.html`: responsive pitch view, depth view, search, filters, player profiles, watchlist and methodology key.
+* `seed.json`: initial researched player dataset with sources and exclusions.
+* `server.js`: Worker routes, shared R2 persistence, signing audit and MCP tools.
+* `worker/index.js`: assembled Cloudflare Worker module.
+* `scripts/assemble.mjs`: reproducible dependency free source build.
+* `verify.mjs`: functionality and persistence checks.
+* `UPDATE_INSTRUCTIONS.md`: research and scheduled update policy.
+
+## Build and checks
+
+Requires Node.js 20 or newer. No dependency installation is required.
+
+```sh
+npm run build
+npm test
+```
+
+## Hosting
+
+The Worker expects an R2 binding named `BUCKET`. It serves the page at `/`, reads data at `/api/board` and persists shared changes through protected routes. Current deployment relies on owner private platform authentication. Do not deploy write routes to an unauthenticated public Worker without adding equivalent authorization. GitHub Pages alone cannot run the Worker or R2 data updates.
+
+## Data policy
+
+RuckMob competition season rows are the single appearance provider. Partial database career records are never called complete career totals. Other sources support identity, contract and injury checks. The current census screens 518 provincial participant records across all 14 NPC provinces, with 404 provisional player profiles. Exact jersey assignments and some source coverage remain unresolved. Only players with verified metric inputs receive scores. Unknown values remain null.
+
+AGI version 1.0 uses source positional percentiles and documented jersey weights. It is a provisional screening index, not an official player quality ranking or validated prediction. The application includes the full score key and positional limitations.
+
+Player data and images remain attributed to their linked sources. No ownership of third party data or photography is asserted.
+
+## GitHub Pages option
+
+`scripts/build-pages.mjs` generates a static version in `pages/`. The included manually triggered GitHub Actions workflow can publish it after Pages is enabled and public publication is authorized. This version reads `data.json` from the same deployment and supports the pitch, filters, profiles, exports and device watchlist. Shared signing edits stay in the protected Worker application. To update the static board, replace `seed.json` with the verified dataset and commit it; Actions rebuilds and republishes the page.

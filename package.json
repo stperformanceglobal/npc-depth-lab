@@ -1,0 +1,1 @@
+{"name":"npc-depth-lab","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node scripts/assemble.mjs","test":"npm run build && node verify.mjs"}}
