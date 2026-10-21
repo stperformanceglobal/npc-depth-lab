@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-21",
   "edition": "Broad 14 province participant census with provisional contract screening",
   "appearanceProvider": "RuckMob (2026 season); Rugby Database (career totals)",
   "players": [
@@ -727,7 +727,7 @@
       "province": "Manawatū",
       "previousSR": false,
       "games2026": 9,
-      "minutes": null,
+      "minutes": 387,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -751,6 +751,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/manawatu/roster"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/rory-woods"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -759,25 +763,57 @@
       "appearanceSource": "https://ruckmob.com/teams/manawatu/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
       "recordedNpc": null,
       "recordedSR": null,
-      "appearanceNote": "Canonical season row: unverified NPC 2026 appearances. Database coverage: unverified NPC and unverified Super Rugby appearances. These are partial records unless the full career total is separately shown. Repeated fetch failed. No RuckMob counts verified. Previous9/10/0 came from Tracker and should not be silently retained. Team season census row now records 9 appearances.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 9 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 387 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
       "legacyResearchNote": "Totals marked ? are not verified full career totals. Tracker position label 6 and prose 7 conflict. Primary 6 based on its all.rugby usual starts note; secondary 7 retained.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "metrics": {
         "Tries": 5,
-        "Points": 25
+        "Points": 25,
+        "Metres / 80": 35.6,
+        "Carries / 80": 10.3,
+        "Tackles / 80": 18,
+        "Tackle success %": 97,
+        "Turnovers won / 80": 1.45,
+        "Penalties conceded / 80": 0.21
       },
-      "percentiles": {},
-      "metricCount": 0,
-      "referenceGroup": "loose forwards",
-      "metricNote": "Source match coverage may differ from season appearance totals. See research notes. No minimum playing time adjustment is applied.",
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 73,
+          "Carries / 80": 43
+        },
+        "Defence": {
+          "Tackles / 80": 97,
+          "Tackle success %": 97,
+          "Turnovers won / 80": 94
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 94
+        }
+      },
+      "metricCount": 6,
+      "referenceGroup": "back rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 387 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "positionNote": "Usual provincial role; interchangeable lock and wing shirt sides may require lineup frequency checks.",
       "careerAppearance": {
         "provider": "Rugby Database",
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "rory-woods",
+        "sourceUrl": "https://ruckmob.com/players/rory-woods",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 387,
+        "referenceGroup": "back rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Canonical season row: unverified NPC 2026 appearances. Database coverage: unverified NPC and unverified Super Rugby appearances. These are partial records unless the full career total is separately shown. Repeated fetch failed. No RuckMob counts verified. Previous9/10/0 came from Tracker and should not be silently retained. Team season census row now records 9 appearances."
     },
     {
       "id": "rob-rush",
@@ -2359,7 +2395,7 @@
       "province": "Auckland",
       "previousSR": false,
       "games2026": null,
-      "minutes": null,
+      "minutes": 517,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -2375,19 +2411,43 @@
         {
           "title": "Official Japan League One signing confirmation and physical profile",
           "url": "https://league-one.jp/news/6213"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/nathaniel-pole"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Signed for Yokohama Canon Eagles 2026/27 officially16 October. Retained because user exclusion applies to Super Rugby contracts. Overseas commitment constrains availability.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 29.4,
+        "Carries / 80": 12.1,
+        "Tackles / 80": 11.6,
+        "Tackle success %": 88,
+        "Turnovers won / 80": 1.08,
+        "Penalties conceded / 80": 0.62
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 96,
+          "Carries / 80": 96
+        },
+        "Defence": {
+          "Tackles / 80": 23,
+          "Tackle success %": 32,
+          "Turnovers won / 80": 96
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 70
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "front rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 10 games, 517 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 10 full-box-score games and 517 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -2395,7 +2455,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "nathaniel-pole",
+        "sourceUrl": "https://ruckmob.com/players/nathaniel-pole",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 10,
+        "sampleMinutes": 517,
+        "referenceGroup": "front rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "soane-vikena",
@@ -2404,7 +2477,7 @@
       "province": "Auckland",
       "previousSR": true,
       "games2026": null,
-      "minutes": null,
+      "minutes": 264,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -2420,19 +2493,43 @@
         {
           "title": "2026 Super Rugby main squad or WTG evidence",
           "url": "https://www.allblacks.com/news/dhl-super-rugby-pacific-squads-named-for-2026-season"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/soane-vikena"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Highlanders departure confirmed after 2026; 2027 destination not verified.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 19.4,
+        "Carries / 80": 7.6,
+        "Tackles / 80": 15.2,
+        "Tackle success %": 93,
+        "Turnovers won / 80": 0.3,
+        "Penalties conceded / 80": 0.61
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 74,
+          "Carries / 80": 47
+        },
+        "Defence": {
+          "Tackles / 80": 66,
+          "Tackle success %": 68,
+          "Turnovers won / 80": 59
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 72
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "front rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 5 games, 264 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 5 full-box-score games and 264 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -2440,7 +2537,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "soane-vikena",
+        "sourceUrl": "https://ruckmob.com/players/soane-vikena",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 5,
+        "sampleMinutes": 264,
+        "referenceGroup": "front rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "jay-fonokalafi",
@@ -2490,7 +2600,7 @@
       "province": "Auckland",
       "previousSR": false,
       "games2026": null,
-      "minutes": null,
+      "minutes": 400,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -2502,19 +2612,43 @@
         {
           "title": "Verified 2026 provincial participation census",
           "url": "https://itsrugby.com/teams/auckland/"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/randall-baker"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 21,
+        "Carries / 80": 10.8,
+        "Tackles / 80": 11.6,
+        "Tackle success %": 94,
+        "Turnovers won / 80": 0.6,
+        "Penalties conceded / 80": 1.4
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 26,
+          "Carries / 80": 54
+        },
+        "Defence": {
+          "Tackles / 80": 16,
+          "Tackle success %": 77,
+          "Turnovers won / 80": 55
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 2
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "back rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 400 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 400 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "role only; exact usual jersey requires confirmation",
       "careerAppearance": {
@@ -2522,7 +2656,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "randall-baker",
+        "sourceUrl": "https://ruckmob.com/players/randall-baker",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 400,
+        "referenceGroup": "back rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "liam-hallam-eames",
@@ -2531,7 +2678,7 @@
       "province": "Auckland",
       "previousSR": false,
       "games2026": null,
-      "minutes": null,
+      "minutes": 231,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -2543,19 +2690,43 @@
         {
           "title": "Verified 2026 provincial participation census",
           "url": "https://itsrugby.com/teams/auckland/"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/liam-hallam-eames"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 3.1,
+        "Carries / 80": 6.2,
+        "Tackles / 80": 12.8,
+        "Tackle success %": 88,
+        "Turnovers won / 80": 0,
+        "Penalties conceded / 80": 0.35
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 1,
+          "Carries / 80": 17
+        },
+        "Defence": {
+          "Tackles / 80": 35,
+          "Tackle success %": 31,
+          "Turnovers won / 80": 12
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 75
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "locks",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 6 games, 231 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 6 full-box-score games and 231 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -2563,7 +2734,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "liam-hallam-eames",
+        "sourceUrl": "https://ruckmob.com/players/liam-hallam-eames",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 6,
+        "sampleMinutes": 231,
+        "referenceGroup": "locks",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "che-clark",
@@ -2617,7 +2801,7 @@
       "province": "Auckland",
       "previousSR": true,
       "games2026": null,
-      "minutes": null,
+      "minutes": 705,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -2633,19 +2817,43 @@
         {
           "title": "2026 Super Rugby main squad or WTG evidence",
           "url": "https://www.allblacks.com/news/dhl-super-rugby-pacific-squads-named-for-2026-season"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/tai-cribb"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 8.3,
+        "Carries / 80": 7.8,
+        "Tackles / 80": 13.2,
+        "Tackle success %": 89,
+        "Turnovers won / 80": 0,
+        "Penalties conceded / 80": 0.34
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 26,
+          "Carries / 80": 42
+        },
+        "Defence": {
+          "Tackles / 80": 40,
+          "Tackle success %": 35,
+          "Turnovers won / 80": 12
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 79
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "locks",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 10 games, 705 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 10 full-box-score games and 705 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "role only; exact usual jersey requires confirmation",
       "careerAppearance": {
@@ -2653,7 +2861,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "tai-cribb",
+        "sourceUrl": "https://ruckmob.com/players/tai-cribb",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 10,
+        "sampleMinutes": 705,
+        "referenceGroup": "locks",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "titi-nofoagatotoa",
@@ -2662,7 +2883,7 @@
       "province": "Auckland",
       "previousSR": true,
       "games2026": null,
-      "minutes": null,
+      "minutes": 442,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -2678,19 +2899,43 @@
         {
           "title": "2026 Super Rugby main squad or WTG evidence",
           "url": "https://www.allblacks.com/news/dhl-super-rugby-pacific-squads-named-for-2026-season"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/titi-nofoagatotoa"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Released by Force after 2026; 2027 status unconfirmed.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 21.9,
+        "Carries / 80": 12.9,
+        "Tackles / 80": 14.8,
+        "Tackle success %": 94,
+        "Turnovers won / 80": 0.54,
+        "Penalties conceded / 80": 0.91
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 30,
+          "Carries / 80": 83
+        },
+        "Defence": {
+          "Tackles / 80": 62,
+          "Tackle success %": 85,
+          "Turnovers won / 80": 54
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 32
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "back rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 442 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 442 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -2698,7 +2943,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "titi-nofoagatotoa",
+        "sourceUrl": "https://ruckmob.com/players/titi-nofoagatotoa",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 442,
+        "referenceGroup": "back rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "caleb-woodley",
@@ -2707,7 +2965,7 @@
       "province": "Auckland",
       "previousSR": false,
       "games2026": null,
-      "minutes": null,
+      "minutes": 391,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -2719,19 +2977,43 @@
         {
           "title": "Verified 2026 provincial participation census",
           "url": "https://itsrugby.com/teams/auckland/"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/caleb-woodley"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 19,
+        "Carries / 80": 9.6,
+        "Tackles / 80": 14.3,
+        "Tackle success %": 91,
+        "Turnovers won / 80": 0.61,
+        "Penalties conceded / 80": 1.23
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 22,
+          "Carries / 80": 40
+        },
+        "Defence": {
+          "Tackles / 80": 54,
+          "Tackle success %": 45,
+          "Turnovers won / 80": 60
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 5
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "back rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 6 games, 391 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 6 full-box-score games and 391 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "role only; exact usual jersey requires confirmation",
       "careerAppearance": {
@@ -2739,7 +3021,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "caleb-woodley",
+        "sourceUrl": "https://ruckmob.com/players/caleb-woodley",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 6,
+        "sampleMinutes": 391,
+        "referenceGroup": "back rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "logan-platt",
@@ -3178,7 +3473,7 @@
       "province": "Auckland",
       "previousSR": true,
       "games2026": null,
-      "minutes": null,
+      "minutes": 410,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -3194,19 +3489,47 @@
         {
           "title": "2026 Super Rugby main squad or WTG evidence",
           "url": "https://www.superrugby.co.nz/news/wider-training-groups-media-release"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/harlyn-saunoa"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 59.3,
+        "Clean breaks / 80": 1,
+        "Defenders beaten / carry": 0.47,
+        "Try involvements / 80": 0.78,
+        "Tackles / 80": 4.7,
+        "Tackle success %": 67,
+        "Penalties conceded / 80": 0.39,
+        "Turnovers lost / 10 touches": 1.85
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 79,
+          "Clean breaks / 80": 51,
+          "Defenders beaten / carry": 92,
+          "Try involvements / 80": 69
+        },
+        "Defence": {
+          "Tackles / 80": 23,
+          "Tackle success %": 11
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 41,
+          "Turnovers lost / 10 touches": 3
+        }
+      },
+      "metricCount": 8,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "wings",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 7 games, 410 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 7 full-box-score games and 410 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -3214,7 +3537,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "harlyn-saunoa",
+        "sourceUrl": "https://ruckmob.com/players/harlyn-saunoa",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 7,
+        "sampleMinutes": 410,
+        "referenceGroup": "wings",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "codemeru-vai",
@@ -3547,8 +3883,8 @@
       "position": 3,
       "province": "Northland",
       "previousSR": false,
-      "games2026": null,
-      "minutes": null,
+      "games2026": 12,
+      "minutes": 259,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -3560,19 +3896,43 @@
         {
           "title": "Verified 2026 provincial participation census",
           "url": "https://itsrugby.com/teams/northland/"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/olly-ryan"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 5.2,
+        "Carries / 80": 6.9,
+        "Tackles / 80": 11.1,
+        "Tackle success %": 94,
+        "Turnovers won / 80": 0.33,
+        "Penalties conceded / 80": 0.98
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 17,
+          "Carries / 80": 38
+        },
+        "Defence": {
+          "Tackles / 80": 15,
+          "Tackle success %": 86,
+          "Turnovers won / 80": 63
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 50
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "front rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 12 games, 259 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 12 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 12 full-box-score games and 259 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -3580,7 +3940,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "olly-ryan",
+        "sourceUrl": "https://ruckmob.com/players/olly-ryan",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 12,
+        "sampleMinutes": 259,
+        "referenceGroup": "front rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted. Career season competition row verified 21 October 2026: 12 NPC 2026 appearances; prior saved count corrected."
     },
     {
       "id": "ricki-heremaia",
@@ -3757,7 +4130,7 @@
       "province": "Northland",
       "previousSR": true,
       "games2026": null,
-      "minutes": null,
+      "minutes": 838,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -3773,19 +4146,43 @@
         {
           "title": "2026 Super Rugby main squad or WTG evidence",
           "url": "https://www.allblacks.com/news/dhl-super-rugby-pacific-squads-named-for-2026-season"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/allan-craig"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Known Shimizu Koto Blue Sharks move in Japan. Retained because not a Super Rugby contract; availability constrained.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 10.8,
+        "Carries / 80": 4.5,
+        "Tackles / 80": 12.3,
+        "Tackle success %": 87,
+        "Turnovers won / 80": 0.21,
+        "Penalties conceded / 80": 0.21
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 31,
+          "Carries / 80": 3
+        },
+        "Defence": {
+          "Tackles / 80": 24,
+          "Tackle success %": 19,
+          "Turnovers won / 80": 45
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 95
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "locks",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 12 games, 838 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 12 full-box-score games and 838 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -3793,7 +4190,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "allan-craig",
+        "sourceUrl": "https://ruckmob.com/players/allan-craig",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 12,
+        "sampleMinutes": 838,
+        "referenceGroup": "locks",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "josh-goodhue",
@@ -4097,7 +4507,7 @@
       "province": "Northland",
       "previousSR": true,
       "games2026": null,
-      "minutes": null,
+      "minutes": 596,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -4117,19 +4527,47 @@
         {
           "title": "Official 2026 Brumbies departure confirmation",
           "url": "https://www.rugby.com.au/news/brumbies-bid-farewell-to-creighton-anderson-and-saumaisue-2026622"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/hudson-creighton"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Brumbies departure after2026 officially confirmed. No subsequent 2027 Super Rugby deal located.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 19.3,
+        "Clean breaks / 80": 0.3,
+        "Defenders beaten / carry": 0.16,
+        "Try involvements / 80": 0.54,
+        "Tackles / 80": 6.8,
+        "Tackle success %": 82,
+        "Penalties conceded / 80": 0.13,
+        "Turnovers lost / 10 touches": 0.56
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 9,
+          "Clean breaks / 80": 13,
+          "Defenders beaten / carry": 17,
+          "Try involvements / 80": 53
+        },
+        "Defence": {
+          "Tackles / 80": 21,
+          "Tackle success %": 61
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 89,
+          "Turnovers lost / 10 touches": 57
+        }
+      },
+      "metricCount": 8,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "centres",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 596 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 596 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -4137,7 +4575,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "hudson-creighton",
+        "sourceUrl": "https://ruckmob.com/players/hudson-creighton",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 596,
+        "referenceGroup": "centres",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "brady-rush",
@@ -4146,7 +4597,7 @@
       "province": "Northland",
       "previousSR": false,
       "games2026": null,
-      "minutes": null,
+      "minutes": 710,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -4158,19 +4609,47 @@
         {
           "title": "Verified 2026 provincial participation census",
           "url": "https://itsrugby.com/teams/northland/"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/brady-rush"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Sevens involvement is separate from Super Rugby. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 48.9,
+        "Clean breaks / 80": 0.9,
+        "Defenders beaten / carry": 0.29,
+        "Try involvements / 80": 0.56,
+        "Tackles / 80": 8.5,
+        "Tackle success %": 89,
+        "Penalties conceded / 80": 0.63,
+        "Turnovers lost / 10 touches": 1.39
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 56,
+          "Clean breaks / 80": 46,
+          "Defenders beaten / carry": 39,
+          "Try involvements / 80": 46
+        },
+        "Defence": {
+          "Tackles / 80": 99,
+          "Tackle success %": 97
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 5,
+          "Turnovers lost / 10 touches": 21
+        }
+      },
+      "metricCount": 8,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "wings",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 710 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 710 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -4178,7 +4657,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "brady-rush",
+        "sourceUrl": "https://ruckmob.com/players/brady-rush",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 710,
+        "referenceGroup": "wings",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "reuben-stewart",
@@ -4228,7 +4720,7 @@
       "province": "Northland",
       "previousSR": true,
       "games2026": null,
-      "minutes": null,
+      "minutes": 880,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -4248,19 +4740,47 @@
         {
           "title": "Official Reds departure confirmation",
           "url": "https://reds.rugby/news/queensland-reds-farewell-five-players-2026614"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/heremaia-murray"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Reds departure after2026 officially confirmed. No subsequent 2027 Super Rugby deal located.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 39.7,
+        "Clean breaks / 80": 0.7,
+        "Defenders beaten / carry": 0.23,
+        "Try involvements / 80": 0.55,
+        "Tackles / 80": 8.7,
+        "Tackle success %": 84,
+        "Penalties conceded / 80": 0.3,
+        "Turnovers lost / 10 touches": 0.78
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 57,
+          "Clean breaks / 80": 64,
+          "Defenders beaten / carry": 37,
+          "Try involvements / 80": 57
+        },
+        "Defence": {
+          "Tackles / 80": 59,
+          "Tackle success %": 69
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 77,
+          "Turnovers lost / 10 touches": 27
+        }
+      },
+      "metricCount": 8,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "centres",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 12 games, 880 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 12 full-box-score games and 880 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -4268,7 +4788,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "heremaia-murray",
+        "sourceUrl": "https://ruckmob.com/players/heremaia-murray",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 12,
+        "sampleMinutes": 880,
+        "referenceGroup": "centres",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "jade-stewart",
@@ -6096,7 +6629,7 @@
       "province": "Bay of Plenty",
       "previousSR": true,
       "games2026": null,
-      "minutes": null,
+      "minutes": 720,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -6112,19 +6645,43 @@
         {
           "title": "2026 Super Rugby main squad or WTG evidence",
           "url": "https://www.allblacks.com/news/dhl-super-rugby-pacific-squads-named-for-2026-season"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/naitoa-ah-kuoi"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 15,
+        "Carries / 80": 9.4,
+        "Tackles / 80": 10,
+        "Tackle success %": 85,
+        "Turnovers won / 80": 0.89,
+        "Penalties conceded / 80": 0.33
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 67,
+          "Carries / 80": 74
+        },
+        "Defence": {
+          "Tackles / 80": 1,
+          "Tackle success %": 10,
+          "Turnovers won / 80": 97
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 81
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": null,
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "locks",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 720 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted.",
+      "appearanceNote": "RuckMob 2026 NPC season census: null recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 720 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -6132,7 +6689,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "naitoa-ah-kuoi",
+        "sourceUrl": "https://ruckmob.com/players/naitoa-ah-kuoi",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 720,
+        "referenceGroup": "locks",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "Numeric appearances are unverified in the canonical provider. Provincial participation is supported by the linked census source; counts from other providers are not substituted."
     },
     {
       "id": "aisake-vakasiuola",
@@ -7030,7 +7600,7 @@
       "province": "North Harbour",
       "previousSR": false,
       "games2026": 11,
-      "minutes": null,
+      "minutes": 880,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -7046,19 +7616,47 @@
         {
           "title": "Official North Harbour 2026 squad and position groups",
           "url": "https://www.harbourrugby.co.nz/newsarticle/168176?newsfeedId=1691366"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/tom-barham"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 44.6,
+        "Clean breaks / 80": 1.2,
+        "Defenders beaten / carry": 0.33,
+        "Try involvements / 80": 0.73,
+        "Tackles / 80": 6.6,
+        "Tackle success %": 86,
+        "Penalties conceded / 80": 0.55,
+        "Turnovers lost / 10 touches": 0.9
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 71,
+          "Clean breaks / 80": 95,
+          "Defenders beaten / carry": 77,
+          "Try involvements / 80": 81
+        },
+        "Defence": {
+          "Tackles / 80": 19,
+          "Tackle success %": 79
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 39,
+          "Turnovers lost / 10 touches": 13
+        }
+      },
+      "metricCount": 8,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/north-harbour/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "centres",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 11 games, 880 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 11. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 11 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 11 full-box-score games and 880 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -7066,7 +7664,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "tom-barham",
+        "sourceUrl": "https://ruckmob.com/players/tom-barham",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 11,
+        "sampleMinutes": 880,
+        "referenceGroup": "centres",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 11. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "kade-banks",
@@ -7173,7 +7784,7 @@
       "province": "North Harbour",
       "previousSR": false,
       "games2026": 11,
-      "minutes": null,
+      "minutes": 689,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -7189,19 +7800,43 @@
         {
           "title": "Official North Harbour 2026 squad and position groups",
           "url": "https://www.harbourrugby.co.nz/newsarticle/168176?newsfeedId=1691366"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/bryn-gordon"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Known Bristol Bears move reported Oct15. Retained because exclusion is Super Rugby only; availability constrained.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 24.2,
+        "Carries / 80": 10,
+        "Tackles / 80": 12.8,
+        "Tackle success %": 83,
+        "Turnovers won / 80": 0.58,
+        "Penalties conceded / 80": 0.46
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 88,
+          "Carries / 80": 78
+        },
+        "Defence": {
+          "Tackles / 80": 38,
+          "Tackle success %": 10,
+          "Turnovers won / 80": 82
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 81
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/north-harbour/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "front rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 11 games, 689 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 11. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 11 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 11 full-box-score games and 689 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -7209,7 +7844,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "bryn-gordon",
+        "sourceUrl": "https://ruckmob.com/players/bryn-gordon",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 11,
+        "sampleMinutes": 689,
+        "referenceGroup": "front rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 11. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "jed-melvin",
@@ -7218,7 +7866,7 @@
       "province": "North Harbour",
       "previousSR": true,
       "games2026": 9,
-      "minutes": null,
+      "minutes": 634,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -7238,19 +7886,43 @@
         {
           "title": "Official North Harbour 2026 squad and position groups",
           "url": "https://www.harbourrugby.co.nz/newsarticle/168176?newsfeedId=1691366"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/jed-melvin"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 42.5,
+        "Carries / 80": 16.2,
+        "Tackles / 80": 13.8,
+        "Tackle success %": 92,
+        "Turnovers won / 80": 0.76,
+        "Penalties conceded / 80": 0.63
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 83,
+          "Carries / 80": 95
+        },
+        "Defence": {
+          "Tackles / 80": 42,
+          "Tackle success %": 55,
+          "Turnovers won / 80": 70
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 56
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/north-harbour/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "back rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 634 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 9 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 634 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "role only; exact usual jersey requires confirmation",
       "careerAppearance": {
@@ -7258,7 +7930,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "jed-melvin",
+        "sourceUrl": "https://ruckmob.com/players/jed-melvin",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 634,
+        "referenceGroup": "back rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "riley-tofilau",
@@ -7447,7 +8132,7 @@
       "province": "North Harbour",
       "previousSR": true,
       "games2026": 8,
-      "minutes": null,
+      "minutes": 624,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -7467,19 +8152,43 @@
         {
           "title": "Official North Harbour 2026 squad and position groups",
           "url": "https://www.harbourrugby.co.nz/newsarticle/168176?newsfeedId=1691366"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/tristyn-cook"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 20.4,
+        "Carries / 80": 10.9,
+        "Tackles / 80": 16,
+        "Tackle success %": 98,
+        "Turnovers won / 80": 0.77,
+        "Penalties conceded / 80": 0.38
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 86,
+          "Carries / 80": 90
+        },
+        "Defence": {
+          "Tackles / 80": 81,
+          "Tackle success %": 99,
+          "Turnovers won / 80": 95
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 69
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/north-harbour/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "locks",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 8 games, 624 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 8. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 8 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 8 full-box-score games and 624 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "role only; exact usual jersey requires confirmation",
       "careerAppearance": {
@@ -7487,7 +8196,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "tristyn-cook",
+        "sourceUrl": "https://ruckmob.com/players/tristyn-cook",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 8,
+        "sampleMinutes": 624,
+        "referenceGroup": "locks",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 8. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "jack-lee",
@@ -7496,7 +8218,7 @@
       "province": "North Harbour",
       "previousSR": true,
       "games2026": 9,
-      "minutes": null,
+      "minutes": 641,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -7516,19 +8238,43 @@
         {
           "title": "Official North Harbour 2026 squad and position groups",
           "url": "https://www.harbourrugby.co.nz/newsarticle/168176?newsfeedId=1691366"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/jack-lee"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional inclusion after 2027 contract screening. Availability requires confirmation.",
-      "metrics": {},
-      "percentiles": {},
-      "metricCount": 0,
+      "metrics": {
+        "Metres / 80": 14.7,
+        "Carries / 80": 7.6,
+        "Tackles / 80": 16.2,
+        "Tackle success %": 94,
+        "Turnovers won / 80": 0.25,
+        "Penalties conceded / 80": 0.37
+      },
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 62,
+          "Carries / 80": 33
+        },
+        "Defence": {
+          "Tackles / 80": 86,
+          "Tackle success %": 74,
+          "Turnovers won / 80": 51
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 72
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/north-harbour/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "locks",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 641 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 9 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 641 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "provisional usual jersey from NPC roster role or naming",
       "careerAppearance": {
@@ -7536,7 +8282,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "jack-lee",
+        "sourceUrl": "https://ruckmob.com/players/jack-lee",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 641,
+        "referenceGroup": "locks",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "oscar-cowley-andrea",
@@ -8367,7 +9126,7 @@
       "province": "Taranaki",
       "previousSR": false,
       "games2026": 12,
-      "minutes": null,
+      "minutes": 633,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -8383,22 +9142,49 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/taranaki-bulls/roster"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/sam-clarke"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional eligibility: no verified 2027 Super Rugby contract found in reviewed announcements. Not a declaration of availability. Jersey uses current provincial role; interchangeable lock and wing shirts need lineup frequency confirmation.",
       "metrics": {
         "Tries": 2,
-        "Points": 59
+        "Points": 59,
+        "Metres / 80": 37,
+        "Clean breaks / 80": 0.3,
+        "Defenders beaten / carry": 0.47,
+        "Try involvements / 80": 0.38,
+        "Tackles / 80": 5.3,
+        "Tackle success %": 84,
+        "Penalties conceded / 80": 0.25,
+        "Turnovers lost / 10 touches": 0.4
       },
-      "percentiles": {},
-      "metricCount": 0,
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 45,
+          "Clean breaks / 80": 30,
+          "Defenders beaten / carry": 99,
+          "Try involvements / 80": 25
+        },
+        "Defence": {
+          "Tackles / 80": 60,
+          "Tackle success %": 85
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 30,
+          "Turnovers lost / 10 touches": 80
+        }
+      },
+      "metricCount": 8,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/taranaki-bulls/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "flyhalves",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 12 games, 633 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 12. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 12 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 12 full-box-score games and 633 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "Usual provincial role; interchangeable lock and wing shirt sides may require lineup frequency checks.",
       "careerAppearance": {
@@ -8406,7 +9192,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "sam-clarke",
+        "sourceUrl": "https://ruckmob.com/players/sam-clarke",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 12,
+        "sampleMinutes": 633,
+        "referenceGroup": "flyhalves",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 12. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "jj-pokai",
@@ -8515,7 +9314,7 @@
       "province": "Taranaki",
       "previousSR": true,
       "games2026": 8,
-      "minutes": null,
+      "minutes": 523,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -8535,22 +9334,45 @@
         {
           "title": "2026 Super Rugby membership",
           "url": "https://www.planetrugby.com/news/super-rugby-pacific-squads-revealed-as-supremo-hails-strength-of-league"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/kaylum-boshier"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional eligibility: no verified 2027 Super Rugby contract found in reviewed announcements. Not a declaration of availability. Jersey uses current provincial role; interchangeable lock and wing shirts need lineup frequency confirmation. Held 2026 Super Rugby main squad, WTG or documented senior cover involvement; 2027 unresolved.",
       "metrics": {
         "Tries": 3,
-        "Points": 15
+        "Points": 15,
+        "Metres / 80": 22.2,
+        "Carries / 80": 7.8,
+        "Tackles / 80": 15.9,
+        "Tackle success %": 93,
+        "Turnovers won / 80": 1.22,
+        "Penalties conceded / 80": 0.92
       },
-      "percentiles": {},
-      "metricCount": 0,
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 32,
+          "Carries / 80": 24
+        },
+        "Defence": {
+          "Tackles / 80": 71,
+          "Tackle success %": 68,
+          "Turnovers won / 80": 88
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 30
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/taranaki-bulls/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "back rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 8 games, 523 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 8. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 8 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 8 full-box-score games and 523 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "Usual provincial role; interchangeable lock and wing shirt sides may require lineup frequency checks.",
       "careerAppearance": {
@@ -8558,7 +9380,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "kaylum-boshier",
+        "sourceUrl": "https://ruckmob.com/players/kaylum-boshier",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 8,
+        "sampleMinutes": 523,
+        "referenceGroup": "back rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 8. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "jesse-parete",
@@ -9647,7 +10482,7 @@
       "province": "Wellington",
       "previousSR": false,
       "games2026": 10,
-      "minutes": null,
+      "minutes": 542,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -9663,22 +10498,49 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/logan-henry"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional eligibility: no verified 2027 Super Rugby contract found in reviewed announcements. Not a declaration of availability. Jersey uses current provincial role; interchangeable lock and wing shirts need lineup frequency confirmation.",
       "metrics": {
         "Tries": 2,
-        "Points": 10
+        "Points": 10,
+        "Metres / 80": 24.1,
+        "Clean breaks / 80": 0,
+        "Defenders beaten / carry": 0.25,
+        "Try involvements / 80": 0.74,
+        "Tackles / 80": 9,
+        "Tackle success %": 75,
+        "Penalties conceded / 80": 0.44,
+        "Turnovers lost / 10 touches": 0.14
       },
-      "percentiles": {},
-      "metricCount": 0,
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 64,
+          "Clean breaks / 80": 13,
+          "Defenders beaten / carry": 60,
+          "Try involvements / 80": 32
+        },
+        "Defence": {
+          "Tackles / 80": 68,
+          "Tackle success %": 29
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 40,
+          "Turnovers lost / 10 touches": 64
+        }
+      },
+      "metricCount": 8,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/wellington/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "scrumhalves",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 10 games, 542 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 10. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 10 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 10 full-box-score games and 542 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "Usual provincial role; interchangeable lock and wing shirt sides may require lineup frequency checks.",
       "careerAppearance": {
@@ -9686,7 +10548,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "logan-henry",
+        "sourceUrl": "https://ruckmob.com/players/logan-henry",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 10,
+        "sampleMinutes": 542,
+        "referenceGroup": "scrumhalves",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 10. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "william-davis",
@@ -10767,7 +11642,7 @@
       "province": "Manawatū",
       "previousSR": false,
       "games2026": 8,
-      "minutes": null,
+      "minutes": 433,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -10783,22 +11658,49 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/manawatu/roster"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/george-worboys"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional eligibility: no verified 2027 Super Rugby contract found in reviewed announcements. Not a declaration of availability. Jersey uses current provincial role; interchangeable lock and wing shirts need lineup frequency confirmation.",
       "metrics": {
         "Tries": 1,
-        "Points": 58
+        "Points": 58,
+        "Metres / 80": 35.3,
+        "Clean breaks / 80": 0.4,
+        "Defenders beaten / carry": 0.17,
+        "Try involvements / 80": 0.74,
+        "Tackles / 80": 4.1,
+        "Tackle success %": 67,
+        "Penalties conceded / 80": 0.18,
+        "Turnovers lost / 10 touches": 0.67
       },
-      "percentiles": {},
-      "metricCount": 0,
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 40,
+          "Clean breaks / 80": 40,
+          "Defenders beaten / carry": 40,
+          "Try involvements / 80": 55
+        },
+        "Defence": {
+          "Tackles / 80": 25,
+          "Tackle success %": 20
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 60,
+          "Turnovers lost / 10 touches": 5
+        }
+      },
+      "metricCount": 8,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/manawatu/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "flyhalves",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 8 games, 433 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 8. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 8 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 8 full-box-score games and 433 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "Usual provincial role; interchangeable lock and wing shirt sides may require lineup frequency checks.",
       "careerAppearance": {
@@ -10806,7 +11708,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "george-worboys",
+        "sourceUrl": "https://ruckmob.com/players/george-worboys",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 8,
+        "sampleMinutes": 433,
+        "referenceGroup": "flyhalves",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 8. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "reece-macdonald",
@@ -10815,7 +11730,7 @@
       "province": "Manawatū",
       "previousSR": false,
       "games2026": 9,
-      "minutes": null,
+      "minutes": 657,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -10831,22 +11746,49 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/manawatu/roster"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/reece-macdonald"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional eligibility: no verified 2027 Super Rugby contract found in reviewed announcements. Not a declaration of availability. Jersey uses current provincial role; interchangeable lock and wing shirts need lineup frequency confirmation.",
       "metrics": {
         "Tries": 3,
-        "Points": 46
+        "Points": 46,
+        "Metres / 80": 63.1,
+        "Clean breaks / 80": 0.6,
+        "Defenders beaten / carry": 0.4,
+        "Try involvements / 80": 0.61,
+        "Tackles / 80": 3.2,
+        "Tackle success %": 70,
+        "Penalties conceded / 80": 0.12,
+        "Turnovers lost / 10 touches": 0.44
       },
-      "percentiles": {},
-      "metricCount": 0,
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 56,
+          "Clean breaks / 80": 39,
+          "Defenders beaten / carry": 74,
+          "Try involvements / 80": 44
+        },
+        "Defence": {
+          "Tackles / 80": 44,
+          "Tackle success %": 39
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 69,
+          "Turnovers lost / 10 touches": 99
+        }
+      },
+      "metricCount": 8,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/manawatu/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "fullbacks",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 657 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 9 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 657 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "No 2027 Super Rugby commitment found in reviewed sources; availability requires confirmation.",
       "positionNote": "Usual provincial role; interchangeable lock and wing shirt sides may require lineup frequency checks.",
       "careerAppearance": {
@@ -10854,7 +11796,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "reece-macdonald",
+        "sourceUrl": "https://ruckmob.com/players/reece-macdonald",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 657,
+        "referenceGroup": "fullbacks",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "mosese-bason",
@@ -10863,7 +11818,7 @@
       "province": "Manawatū",
       "previousSR": true,
       "games2026": 9,
-      "minutes": null,
+      "minutes": 515,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -10887,22 +11842,45 @@
         {
           "title": "Official 2026 Hurricanes WTG",
           "url": "https://www.hurricanes.co.nz/news/article/hurricanes-unveil-12-man-wider-training-group-for-2026"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/mosese-bason"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional eligibility: no verified 2027 Super Rugby contract found in reviewed announcements. Not a declaration of availability. Jersey uses current provincial role; interchangeable lock and wing shirts need lineup frequency confirmation. Held 2026 Super Rugby main squad, WTG or documented senior cover involvement; 2027 unresolved.",
       "metrics": {
         "Tries": 3,
-        "Points": 15
+        "Points": 15,
+        "Metres / 80": 23.3,
+        "Carries / 80": 8.1,
+        "Tackles / 80": 16.2,
+        "Tackle success %": 92,
+        "Turnovers won / 80": 1.09,
+        "Penalties conceded / 80": 0.93
       },
-      "percentiles": {},
-      "metricCount": 0,
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 39,
+          "Carries / 80": 27
+        },
+        "Defence": {
+          "Tackles / 80": 74,
+          "Tackle success %": 60,
+          "Turnovers won / 80": 85
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 29
+        }
+      },
+      "metricCount": 6,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/manawatu/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "back rows",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 515 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 9 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 515 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "Usual provincial role; interchangeable lock and wing shirt sides may require lineup frequency checks.",
       "careerAppearance": {
@@ -10910,7 +11888,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "mosese-bason",
+        "sourceUrl": "https://ruckmob.com/players/mosese-bason",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 515,
+        "referenceGroup": "back rows",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "liam-o-connor",
@@ -11535,7 +12526,7 @@
       "province": "Manawatū",
       "previousSR": true,
       "games2026": 10,
-      "minutes": null,
+      "minutes": 590,
       "npcTotal": null,
       "srTotal": null,
       "srTeams": [],
@@ -11559,22 +12550,49 @@
         {
           "title": "Official 2026 Hurricanes WTG",
           "url": "https://www.hurricanes.co.nz/news/article/hurricanes-unveil-12-man-wider-training-group-for-2026"
+        },
+        {
+          "title": "Verified NPC 2026 rate statistics and positional percentiles",
+          "url": "https://ruckmob.com/players/drew-wild"
         }
       ],
       "checkedAt": "2026-10-20",
       "notes": "Provisional eligibility: no verified 2027 Super Rugby contract found in reviewed announcements. Not a declaration of availability. Jersey uses current provincial role; interchangeable lock and wing shirts need lineup frequency confirmation. Held 2026 Super Rugby main squad, WTG or documented senior cover involvement; 2027 unresolved.",
       "metrics": {
         "Tries": 0,
-        "Points": 2
+        "Points": 2,
+        "Metres / 80": 54.8,
+        "Clean breaks / 80": 0.7,
+        "Defenders beaten / carry": 0.3,
+        "Try involvements / 80": 0.14,
+        "Tackles / 80": 5.7,
+        "Tackle success %": 86,
+        "Penalties conceded / 80": 0.14,
+        "Turnovers lost / 10 touches": 0.64
       },
-      "percentiles": {},
-      "metricCount": 0,
+      "percentiles": {
+        "Attack": {
+          "Metres / 80": 35,
+          "Clean breaks / 80": 48,
+          "Defenders beaten / carry": 52,
+          "Try involvements / 80": 5
+        },
+        "Defence": {
+          "Tackles / 80": 91,
+          "Tackle success %": 93
+        },
+        "Discipline": {
+          "Penalties conceded / 80": 61,
+          "Turnovers lost / 10 touches": 52
+        }
+      },
+      "metricCount": 8,
       "appearanceProvider": "RuckMob",
       "appearanceSource": "https://ruckmob.com/teams/manawatu/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points",
-      "referenceGroup": "Not rated",
-      "metricNote": "Detailed NPC 2026 rate metrics have not yet been verified for this candidate.",
+      "referenceGroup": "fullbacks",
+      "metricNote": "Verified NPC 2026 rate statistics and provider position-group percentiles. Metric sample: 9 games, 590 minutes. Season appearance totals and full-box-score coverage can differ. AGI requires all three domains and at least 160 sample minutes. Metrics reviewed 21 October 2026.",
       "careerNote": "Career totals awaiting Rugby Database competition verification. Unknown does not mean zero. RuckMob recorded match coverage remains separate from full career totals.",
-      "appearanceNote": "RuckMob recorded NPC 2026 appearances: 10. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "appearanceNote": "RuckMob 2026 NPC season census: 10 recorded appearances. Separately, the verified NPC 2026 rate-stat sample covers 9 full-box-score games and 590 minutes. These coverage counts can differ. Metrics reviewed 21 October 2026. Career NPC and Super Rugby totals still await Rugby Database competition reconciliation.",
       "statusNote": "Verified 2026 Super Rugby main squad, WTG or contracted senior cover; 2027 status unresolved.",
       "positionNote": "Usual provincial role; interchangeable lock and wing shirt sides may require lineup frequency checks.",
       "careerAppearance": {
@@ -11582,7 +12600,20 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
-      }
+      },
+      "metricCheckedAt": "2026-10-21",
+      "metricEvidence": {
+        "provider": "RuckMob",
+        "providerPlayerId": "drew-wild",
+        "sourceUrl": "https://ruckmob.com/players/drew-wild",
+        "season": "NPC 2026",
+        "checkedAt": "2026-10-21",
+        "sampleGames": 9,
+        "sampleMinutes": 590,
+        "referenceGroup": "fullbacks",
+        "percentileBasis": "provider_same_competition_season_position_group"
+      },
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 10. Season records can lag current fixtures. Full career coverage is unresolved."
     },
     {
       "id": "reuben-allen",
