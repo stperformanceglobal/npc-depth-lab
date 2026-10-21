@@ -99,7 +99,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://trfu.co.nz/cdn/shop/files/Perry_Lawrence-01_copy_900x1200_crop_top.png?v=1787613581",
       "sources": [
         {
           "title": "RuckMob season table and metrics",
@@ -112,6 +112,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/taranaki-bulls/roster"
+        },
+        {
+          "title": "Taranaki Rugby · official player portrait",
+          "url": "https://trfu.co.nz/pages/perry-lawrence"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -158,6 +162,13 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Taranaki Rugby",
+        "url": "https://trfu.co.nz/pages/perry-lawrence",
+        "imageUrl": "https://trfu.co.nz/cdn/shop/files/Perry_Lawrence-01_copy_900x1200_crop_top.png?v=1787613581",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -176,7 +187,7 @@
       "height": 186,
       "weight": 121,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://cdn.prod.website-files.com/67b78bd2b63af40bd0e9d1db/6a68267d168a9bd8fe6d1e44_260713-Finlay-Brewis1.jpg",
       "sources": [
         {
           "title": "RuckMob metrics and recorded career",
@@ -193,6 +204,10 @@
         {
           "title": "Provincial roster and usual position",
           "url": "https://www.nzrugbytracker.co.nz/teams/canterbury"
+        },
+        {
+          "title": "Canterbury Rugby · official player portrait",
+          "url": "https://www.canterburyrugby.co.nz/our-squads/npc"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -238,6 +253,13 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Canterbury Rugby",
+        "url": "https://www.canterburyrugby.co.nz/our-squads/npc",
+        "imageUrl": "https://cdn.prod.website-files.com/67b78bd2b63af40bd0e9d1db/6a68267d168a9bd8fe6d1e44_260713-Finlay-Brewis1.jpg",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -342,7 +364,7 @@
       "height": 180,
       "weight": 106,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/802edd91-8857-42dd-8db7-0a742afd5ac4_wo.png?t=639207616697200000",
       "sources": [
         {
           "title": "NPC season and career profile",
@@ -363,6 +385,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/hawkes-bay/roster"
+        },
+        {
+          "title": "Hawke's Bay Magpies · official player portrait",
+          "url": "https://www.magpies.co.nz/fan-zone-1/the-team"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -412,6 +438,15 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Hawke's Bay Magpies",
+        "url": "https://www.magpies.co.nz/fan-zone-1/the-team",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/802edd91-8857-42dd-8db7-0a742afd5ac4_wo.png?t=639207616697200000",
+        "checkedAt": "2026-10-21",
+        "season": 2026,
+        "framing": "upper_body",
+        "identityBasis": "Name printed on official portrait card"
       }
     },
     {
@@ -1069,7 +1104,7 @@
       "height": 193,
       "weight": 110,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/7117444c-ea5d-469f-aff3-3aa3e2e21cc9_wo.jpg?t=639207874254470000",
       "sources": [
         {
           "title": "Canonical appearance record · RuckMob",
@@ -1086,6 +1121,10 @@
         {
           "title": "Official North Harbour 2026 squad and position groups",
           "url": "https://www.harbourrugby.co.nz/newsarticle/168176?newsfeedId=1691366"
+        },
+        {
+          "title": "North Harbour Rugby · official player portrait",
+          "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -1129,6 +1168,13 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "North Harbour Rugby",
+        "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/7117444c-ea5d-469f-aff3-3aa3e2e21cc9_wo.jpg?t=639207874254470000",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -1145,7 +1191,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/a8a250b8-beb0-40b4-bd1c-4fdfab3b25c8_wo.jpg?t=639207873597300000",
       "sources": [
         {
           "title": "2026 statistics and profile",
@@ -1166,6 +1212,10 @@
         {
           "title": "2026 Super Rugby main squad or WTG evidence",
           "url": "https://www.superrugby.co.nz/news/wider-training-groups-media-release"
+        },
+        {
+          "title": "North Harbour Rugby · official player portrait",
+          "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -1221,6 +1271,13 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "North Harbour Rugby",
+        "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/a8a250b8-beb0-40b4-bd1c-4fdfab3b25c8_wo.jpg?t=639207873597300000",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -1237,7 +1294,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/80d294fb-4dd4-4519-a570-84d99118e701_wo.jpg?t=639207873222930000",
       "sources": [
         {
           "title": "2026 statistics and profile",
@@ -1250,6 +1307,10 @@
         {
           "title": "Verified 2026 provincial participation census",
           "url": "https://ruckmob.com/teams/north-harbour/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points"
+        },
+        {
+          "title": "North Harbour Rugby · official player portrait",
+          "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -1311,6 +1372,13 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "North Harbour Rugby",
+        "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/80d294fb-4dd4-4519-a570-84d99118e701_wo.jpg?t=639207873222930000",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -1327,7 +1395,7 @@
       "height": 183,
       "weight": 98,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/ea163fa0-bdfe-449d-941a-6284ae52c38d_wo.jpg?t=639207873167430000",
       "sources": [
         {
           "title": "2026 statistics and profile",
@@ -1340,6 +1408,10 @@
         {
           "title": "Verified 2026 provincial participation census",
           "url": "https://ruckmob.com/teams/north-harbour/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points"
+        },
+        {
+          "title": "North Harbour Rugby · official player portrait",
+          "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -1395,6 +1467,13 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "North Harbour Rugby",
+        "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/ea163fa0-bdfe-449d-941a-6284ae52c38d_wo.jpg?t=639207873167430000",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -1571,7 +1650,7 @@
       "height": 183,
       "weight": 84,
       "injury": null,
-      "headshot": "https://imagedelivery.net/o57VsJVxgw886qIqyh31EA/48bd022f-efad-4ad7-0209-f2f1a2082e00/w=120,h=160,fit=cover,gravity=face,format=auto",
+      "headshot": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/87e07b4f-eff7-4b8c-850a-3342fb946e3c_wo.png?t=639207673339770000",
       "sources": [
         {
           "title": "2026 statistics and profile",
@@ -1596,6 +1675,10 @@
         {
           "title": "Official 2026 Hurricanes WTG",
           "url": "https://www.hurricanes.co.nz/news/article/hurricanes-unveil-12-man-wider-training-group-for-2026"
+        },
+        {
+          "title": "Hawke's Bay Magpies · official player portrait",
+          "url": "https://www.magpies.co.nz/fan-zone-1/the-team"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -1657,6 +1740,15 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Hawke's Bay Magpies",
+        "url": "https://www.magpies.co.nz/fan-zone-1/the-team",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/87e07b4f-eff7-4b8c-850a-3342fb946e3c_wo.png?t=639207673339770000",
+        "checkedAt": "2026-10-21",
+        "season": 2026,
+        "framing": "upper_body",
+        "identityBasis": "Name printed on official portrait card"
       }
     },
     {
@@ -1673,7 +1765,7 @@
       "height": 188,
       "weight": 93,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/60c294ec-5668-4531-88c2-1c8e4b9db05b_wo.png?t=639207617364630000",
       "sources": [
         {
           "title": "2026 statistics and profile",
@@ -1690,6 +1782,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/hawkes-bay/roster"
+        },
+        {
+          "title": "Hawke's Bay Magpies · official player portrait",
+          "url": "https://www.magpies.co.nz/fan-zone-1/the-team"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -1751,6 +1847,15 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Hawke's Bay Magpies",
+        "url": "https://www.magpies.co.nz/fan-zone-1/the-team",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/60c294ec-5668-4531-88c2-1c8e4b9db05b_wo.png?t=639207617364630000",
+        "checkedAt": "2026-10-21",
+        "season": 2026,
+        "framing": "upper_body",
+        "identityBasis": "Name printed on official portrait card"
       }
     },
     {
@@ -1769,7 +1874,7 @@
       "height": 178,
       "weight": 98,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/5181e83f-3c68-485f-b611-6911ed89da79_wo.png?t=639207617313770000",
       "sources": [
         {
           "title": "2026 statistics and profile",
@@ -1790,6 +1895,10 @@
         {
           "title": "Rugby Database career competition record (reconciliation pending)",
           "url": "https://rugbydatabase.co.nz/player/statsByCompetition.php?playerId=1523"
+        },
+        {
+          "title": "Hawke's Bay Magpies · official player portrait",
+          "url": "https://www.magpies.co.nz/fan-zone-1/the-team"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -1853,6 +1962,15 @@
         "superRugby": null,
         "providerPlayerId": 1523,
         "sourceUrl": "https://rugbydatabase.co.nz/player/statsByCompetition.php?playerId=1523"
+      },
+      "headshotSource": {
+        "provider": "Hawke's Bay Magpies",
+        "url": "https://www.magpies.co.nz/fan-zone-1/the-team",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/5181e83f-3c68-485f-b611-6911ed89da79_wo.png?t=639207617313770000",
+        "checkedAt": "2026-10-21",
+        "season": 2026,
+        "framing": "upper_body",
+        "identityBasis": "Name printed on official portrait card"
       }
     },
     {
@@ -1959,7 +2077,7 @@
       "height": 175,
       "weight": 84,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/af9f96cb-d1d7-42ee-8094-0a85cca76c1e_wo.png?t=639207673315670000",
       "sources": [
         {
           "title": "2026 statistics and profile",
@@ -1976,6 +2094,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/hawkes-bay/roster"
+        },
+        {
+          "title": "Hawke's Bay Magpies · official player portrait",
+          "url": "https://www.magpies.co.nz/fan-zone-1/the-team"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -2008,6 +2130,15 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Hawke's Bay Magpies",
+        "url": "https://www.magpies.co.nz/fan-zone-1/the-team",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/af9f96cb-d1d7-42ee-8094-0a85cca76c1e_wo.png?t=639207673315670000",
+        "checkedAt": "2026-10-21",
+        "season": 2026,
+        "framing": "upper_body",
+        "identityBasis": "Name printed on official portrait card"
       }
     },
     {
@@ -2024,7 +2155,7 @@
       "height": 175,
       "weight": 75,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/e02d5375-5929-4e03-9416-0cbf7e40091b_wo.png?t=639207617061030000",
       "sources": [
         {
           "title": "2026 statistics and profile",
@@ -2041,6 +2172,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/hawkes-bay/roster"
+        },
+        {
+          "title": "Hawke's Bay Magpies · official player portrait",
+          "url": "https://www.magpies.co.nz/fan-zone-1/the-team"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -2067,6 +2202,15 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Hawke's Bay Magpies",
+        "url": "https://www.magpies.co.nz/fan-zone-1/the-team",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/2143/6648/1465412/e02d5375-5929-4e03-9416-0cbf7e40091b_wo.png?t=639207617061030000",
+        "checkedAt": "2026-10-21",
+        "season": 2026,
+        "framing": "upper_body",
+        "identityBasis": "Name printed on official portrait card"
       }
     },
     {
@@ -2085,7 +2229,7 @@
       "height": 192,
       "weight": 95,
       "injury": null,
-      "headshot": "https://imagedelivery.net/o57VsJVxgw886qIqyh31EA/5b20a5e7-dc46-4f79-e969-dbcac3353500/w=120,h=160,fit=cover,gravity=face,format=auto",
+      "headshot": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/b1ac73b8-e404-4ea8-9c81-46927ce983ea_wo.jpg?t=639207873118370000",
       "sources": [
         {
           "title": "2026 statistics and profile",
@@ -2098,6 +2242,10 @@
         {
           "title": "Verified 2026 provincial participation census",
           "url": "https://ruckmob.com/teams/north-harbour/stats?season=3065bb98-dc61-41a0-90d7-924a7d55198e&sort=points"
+        },
+        {
+          "title": "North Harbour Rugby · official player portrait",
+          "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -2159,6 +2307,13 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "North Harbour Rugby",
+        "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/b1ac73b8-e404-4ea8-9c81-46927ce983ea_wo.jpg?t=639207873118370000",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -7607,7 +7762,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/ff8d3fe6-7411-414e-bc18-05a2a50d893b_wo.jpg?t=639207875026000000",
       "sources": [
         {
           "title": "Verified 2026 provincial participation census",
@@ -7620,6 +7775,10 @@
         {
           "title": "Verified NPC 2026 rate statistics and positional percentiles",
           "url": "https://ruckmob.com/players/tom-barham"
+        },
+        {
+          "title": "North Harbour Rugby · official player portrait",
+          "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -7677,7 +7836,14 @@
         "referenceGroup": "centres",
         "percentileBasis": "provider_same_competition_season_position_group"
       },
-      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 11. Season records can lag current fixtures. Full career coverage is unresolved."
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 11. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "headshotSource": {
+        "provider": "North Harbour Rugby",
+        "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/ff8d3fe6-7411-414e-bc18-05a2a50d893b_wo.jpg?t=639207875026000000",
+        "checkedAt": "2026-10-21",
+        "season": 2026
+      }
     },
     {
       "id": "kade-banks",
@@ -7791,7 +7957,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/b1cb04de-77ea-499b-a524-92b6235d5a00_wo.jpg?t=639207873657300000",
       "sources": [
         {
           "title": "Verified 2026 provincial participation census",
@@ -7804,6 +7970,10 @@
         {
           "title": "Verified NPC 2026 rate statistics and positional percentiles",
           "url": "https://ruckmob.com/players/bryn-gordon"
+        },
+        {
+          "title": "North Harbour Rugby · official player portrait",
+          "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -7857,7 +8027,14 @@
         "referenceGroup": "front rows",
         "percentileBasis": "provider_same_competition_season_position_group"
       },
-      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 11. Season records can lag current fixtures. Full career coverage is unresolved."
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 11. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "headshotSource": {
+        "provider": "North Harbour Rugby",
+        "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/b1cb04de-77ea-499b-a524-92b6235d5a00_wo.jpg?t=639207873657300000",
+        "checkedAt": "2026-10-21",
+        "season": 2026
+      }
     },
     {
       "id": "jed-melvin",
@@ -7873,7 +8050,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/51555aac-8fc5-46c7-bfaa-1c1dd49a6bd5_wo.jpg?t=639207874925370000",
       "sources": [
         {
           "title": "Verified 2026 provincial participation census",
@@ -7890,6 +8067,10 @@
         {
           "title": "Verified NPC 2026 rate statistics and positional percentiles",
           "url": "https://ruckmob.com/players/jed-melvin"
+        },
+        {
+          "title": "North Harbour Rugby · official player portrait",
+          "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -7943,7 +8124,14 @@
         "referenceGroup": "back rows",
         "percentileBasis": "provider_same_competition_season_position_group"
       },
-      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved."
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "headshotSource": {
+        "provider": "North Harbour Rugby",
+        "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/51555aac-8fc5-46c7-bfaa-1c1dd49a6bd5_wo.jpg?t=639207874925370000",
+        "checkedAt": "2026-10-21",
+        "season": 2026
+      }
     },
     {
       "id": "riley-tofilau",
@@ -8139,7 +8327,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/06ff1b20-297b-48d7-8b5c-2ce0e9213e47_wo.jpg?t=639207874514430000",
       "sources": [
         {
           "title": "Verified 2026 provincial participation census",
@@ -8156,6 +8344,10 @@
         {
           "title": "Verified NPC 2026 rate statistics and positional percentiles",
           "url": "https://ruckmob.com/players/tristyn-cook"
+        },
+        {
+          "title": "North Harbour Rugby · official player portrait",
+          "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -8209,7 +8401,14 @@
         "referenceGroup": "locks",
         "percentileBasis": "provider_same_competition_season_position_group"
       },
-      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 8. Season records can lag current fixtures. Full career coverage is unresolved."
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 8. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "headshotSource": {
+        "provider": "North Harbour Rugby",
+        "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/06ff1b20-297b-48d7-8b5c-2ce0e9213e47_wo.jpg?t=639207874514430000",
+        "checkedAt": "2026-10-21",
+        "season": 2026
+      }
     },
     {
       "id": "jack-lee",
@@ -8225,7 +8424,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/190e4af4-7231-488e-ba63-26fb8fbfe499_wo.jpg?t=639207874095570000",
       "sources": [
         {
           "title": "Verified 2026 provincial participation census",
@@ -8242,6 +8441,10 @@
         {
           "title": "Verified NPC 2026 rate statistics and positional percentiles",
           "url": "https://ruckmob.com/players/jack-lee"
+        },
+        {
+          "title": "North Harbour Rugby · official player portrait",
+          "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -8295,7 +8498,14 @@
         "referenceGroup": "locks",
         "percentileBasis": "provider_same_competition_season_position_group"
       },
-      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved."
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 9. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "headshotSource": {
+        "provider": "North Harbour Rugby",
+        "url": "https://www.harbourrugby.co.nz/high-performance-pathways/npc-team-2026",
+        "imageUrl": "https://prodcdn.sporty.co.nz/cms/4557/44498/1431871/190e4af4-7231-488e-ba63-26fb8fbfe499_wo.jpg?t=639207874095570000",
+        "checkedAt": "2026-10-21",
+        "season": 2026
+      }
     },
     {
       "id": "oscar-cowley-andrea",
@@ -9133,7 +9343,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://trfu.co.nz/cdn/shop/files/cb3544c5-5cbc-485f-8b22-f221b78fe4af_900x1200_crop_top.png?v=1778712465",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -9146,6 +9356,10 @@
         {
           "title": "Verified NPC 2026 rate statistics and positional percentiles",
           "url": "https://ruckmob.com/players/sam-clarke"
+        },
+        {
+          "title": "Taranaki Rugby · official player portrait",
+          "url": "https://trfu.co.nz/pages/sam-clarke"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -9205,7 +9419,14 @@
         "referenceGroup": "flyhalves",
         "percentileBasis": "provider_same_competition_season_position_group"
       },
-      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 12. Season records can lag current fixtures. Full career coverage is unresolved."
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 12. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "headshotSource": {
+        "provider": "Taranaki Rugby",
+        "url": "https://trfu.co.nz/pages/sam-clarke",
+        "imageUrl": "https://trfu.co.nz/cdn/shop/files/cb3544c5-5cbc-485f-8b22-f221b78fe4af_900x1200_crop_top.png?v=1778712465",
+        "checkedAt": "2026-10-21",
+        "season": 2026
+      }
     },
     {
       "id": "jj-pokai",
@@ -9321,7 +9542,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://trfu.co.nz/cdn/shop/files/Kaylum_Boshier-07_copy_900x1200_crop_top.png?v=1779056562",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -9338,6 +9559,10 @@
         {
           "title": "Verified NPC 2026 rate statistics and positional percentiles",
           "url": "https://ruckmob.com/players/kaylum-boshier"
+        },
+        {
+          "title": "Taranaki Rugby · official player portrait",
+          "url": "https://trfu.co.nz/pages/kaylum-boshier"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -9393,7 +9618,14 @@
         "referenceGroup": "back rows",
         "percentileBasis": "provider_same_competition_season_position_group"
       },
-      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 8. Season records can lag current fixtures. Full career coverage is unresolved."
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 8. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "headshotSource": {
+        "provider": "Taranaki Rugby",
+        "url": "https://trfu.co.nz/pages/kaylum-boshier",
+        "imageUrl": "https://trfu.co.nz/cdn/shop/files/Kaylum_Boshier-07_copy_900x1200_crop_top.png?v=1779056562",
+        "checkedAt": "2026-10-21",
+        "season": 2026
+      }
     },
     {
       "id": "jesse-parete",
@@ -10341,7 +10573,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Cameron_Burgess_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10350,6 +10582,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10373,6 +10609,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 143,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Cameron_Burgess_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -10389,7 +10633,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Reo_Matsushita_26_.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10398,6 +10642,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10421,6 +10669,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 152,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Reo_Matsushita_26_.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -10437,7 +10693,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Dominic_Ropeti_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10450,6 +10706,10 @@
         {
           "title": "2026 Super Rugby membership",
           "url": "https://www.planetrugby.com/news/super-rugby-pacific-squads-revealed-as-supremo-hails-strength-of-league"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10473,6 +10733,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 122,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Dominic_Ropeti_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -10489,7 +10757,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Logan_Henry_26_.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10502,6 +10770,10 @@
         {
           "title": "Verified NPC 2026 rate statistics and positional percentiles",
           "url": "https://ruckmob.com/players/logan-henry"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10561,7 +10833,15 @@
         "referenceGroup": "scrumhalves",
         "percentileBasis": "provider_same_competition_season_position_group"
       },
-      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 10. Season records can lag current fixtures. Full career coverage is unresolved."
+      "legacyAppearanceNote": "RuckMob recorded NPC 2026 appearances: 10. Season records can lag current fixtures. Full career coverage is unresolved.",
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 149,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Logan_Henry_26_.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
+      }
     },
     {
       "id": "william-davis",
@@ -10625,7 +10905,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Losi_Filipo_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10634,6 +10914,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10657,6 +10941,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 96,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Losi_Filipo_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -10673,7 +10965,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Alex_Hewitt_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10682,6 +10974,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10705,6 +11001,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 142,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Alex_Hewitt_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -10721,7 +11025,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Sekope_Lopeti_26_.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10730,6 +11034,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10753,6 +11061,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 157,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Sekope_Lopeti_26_.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -10769,7 +11085,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/James_O_Reilly_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10778,6 +11094,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10801,6 +11121,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 13,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/James_O_Reilly_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -10817,7 +11145,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Motolu_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10834,6 +11162,10 @@
         {
           "title": "Official 2026 Hurricanes WTG",
           "url": "https://www.hurricanes.co.nz/news/article/hurricanes-unveil-12-man-wider-training-group-for-2026"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10857,6 +11189,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 136,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Motolu_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -10873,7 +11213,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Penieli_Poasa_26_.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10882,6 +11222,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10905,6 +11249,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 128,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Penieli_Poasa_26_.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -10921,7 +11273,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Isi_Saumaki.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10930,6 +11282,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -10953,6 +11309,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 159,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Isi_Saumaki.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -10969,7 +11333,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Jake_Turnball_26_.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -10978,6 +11342,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -11001,6 +11369,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 141,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Jake_Turnball_26_.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -11017,7 +11393,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Riley_Williams_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -11026,6 +11402,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -11049,6 +11429,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 153,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Riley_Williams_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -11065,7 +11453,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Geordie_Bean_26_.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -11074,6 +11462,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -11097,6 +11489,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 145,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Geordie_Bean_26_.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -11165,7 +11565,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Sione_Halalilo_26_.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -11174,6 +11574,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -11197,6 +11601,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 97,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Sione_Halalilo_26_.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -11213,7 +11625,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Piri_Paraone_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -11222,6 +11634,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -11245,6 +11661,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 151,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Piri_Paraone_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -11309,7 +11733,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Jackson_Ropata_26..png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -11318,6 +11742,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -11341,6 +11769,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 158,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Jackson_Ropata_26..png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -11405,7 +11841,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Jordan_Soli_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -11414,6 +11850,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -11437,6 +11877,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 147,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Jordan_Soli_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -11453,7 +11901,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Murphy_Taramai_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -11462,6 +11910,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -11485,6 +11937,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 150,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Murphy_Taramai_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -11553,7 +12013,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Sam_Thomson_26_.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -11562,6 +12022,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -11585,6 +12049,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 155,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Sam_Thomson_26_.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
@@ -11601,7 +12073,7 @@
       "height": null,
       "weight": null,
       "injury": null,
-      "headshot": null,
+      "headshot": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Kenkic_Yanagawa_26.png",
       "sources": [
         {
           "title": "RuckMob 2026 appearances",
@@ -11610,6 +12082,10 @@
         {
           "title": "2026 roster and role",
           "url": "https://ruckmob.com/teams/wellington/roster"
+        },
+        {
+          "title": "Wellington Lions official 2026 squad · portrait",
+          "url": "https://www.wellingtonlions.co.nz/squad"
         }
       ],
       "checkedAt": "2026-10-20",
@@ -11633,6 +12109,14 @@
         "status": "pending_source_access",
         "npc": null,
         "superRugby": null
+      },
+      "headshotSource": {
+        "provider": "Wellington Lions",
+        "providerPlayerId": 148,
+        "url": "https://www.wellingtonlions.co.nz/squad",
+        "imageUrl": "https://www.wellingtonlions.co.nz/fileadmin/user_upload/Kenkic_Yanagawa_26.png",
+        "checkedAt": "2026-10-21",
+        "season": 2026
       }
     },
     {
