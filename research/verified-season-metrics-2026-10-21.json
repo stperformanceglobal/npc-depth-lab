@@ -1,0 +1,987 @@
+[
+  {
+    "id": "rory-woods",
+    "name": "Rory Woods",
+    "provider": "RuckMob",
+    "providerPlayerId": "rory-woods",
+    "sourceUrl": "https://ruckmob.com/players/rory-woods",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 387,
+    "referenceGroup": "back rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 35.6,
+      "Carries / 80": 10.3,
+      "Tackles / 80": 18,
+      "Tackle success %": 97,
+      "Turnovers won / 80": 1.45,
+      "Penalties conceded / 80": 0.21
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 73,
+        "Carries / 80": 43
+      },
+      "Defence": {
+        "Tackles / 80": 97,
+        "Tackle success %": 97,
+        "Turnovers won / 80": 94
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 94
+      }
+    }
+  },
+  {
+    "id": "nathaniel-pole",
+    "name": "Nathaniel Pole",
+    "provider": "RuckMob",
+    "providerPlayerId": "nathaniel-pole",
+    "sourceUrl": "https://ruckmob.com/players/nathaniel-pole",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 10,
+    "sampleMinutes": 517,
+    "referenceGroup": "front rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 29.4,
+      "Carries / 80": 12.1,
+      "Tackles / 80": 11.6,
+      "Tackle success %": 88,
+      "Turnovers won / 80": 1.08,
+      "Penalties conceded / 80": 0.62
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 96,
+        "Carries / 80": 96
+      },
+      "Defence": {
+        "Tackles / 80": 23,
+        "Tackle success %": 32,
+        "Turnovers won / 80": 96
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 70
+      }
+    }
+  },
+  {
+    "id": "soane-vikena",
+    "name": "Soane Vikena",
+    "provider": "RuckMob",
+    "providerPlayerId": "soane-vikena",
+    "sourceUrl": "https://ruckmob.com/players/soane-vikena",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 5,
+    "sampleMinutes": 264,
+    "referenceGroup": "front rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 19.4,
+      "Carries / 80": 7.6,
+      "Tackles / 80": 15.2,
+      "Tackle success %": 93,
+      "Turnovers won / 80": 0.3,
+      "Penalties conceded / 80": 0.61
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 74,
+        "Carries / 80": 47
+      },
+      "Defence": {
+        "Tackles / 80": 66,
+        "Tackle success %": 68,
+        "Turnovers won / 80": 59
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 72
+      }
+    }
+  },
+  {
+    "id": "olly-ryan",
+    "name": "Olly Ryan",
+    "provider": "RuckMob",
+    "providerPlayerId": "olly-ryan",
+    "sourceUrl": "https://ruckmob.com/players/olly-ryan",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 12,
+    "sampleMinutes": 259,
+    "referenceGroup": "front rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 5.2,
+      "Carries / 80": 6.9,
+      "Tackles / 80": 11.1,
+      "Tackle success %": 94,
+      "Turnovers won / 80": 0.33,
+      "Penalties conceded / 80": 0.98
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 17,
+        "Carries / 80": 38
+      },
+      "Defence": {
+        "Tackles / 80": 15,
+        "Tackle success %": 86,
+        "Turnovers won / 80": 63
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 50
+      }
+    }
+  },
+  {
+    "id": "randall-baker",
+    "name": "Randall Baker",
+    "provider": "RuckMob",
+    "providerPlayerId": "randall-baker",
+    "sourceUrl": "https://ruckmob.com/players/randall-baker",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 400,
+    "referenceGroup": "back rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 21,
+      "Carries / 80": 10.8,
+      "Tackles / 80": 11.6,
+      "Tackle success %": 94,
+      "Turnovers won / 80": 0.6,
+      "Penalties conceded / 80": 1.4
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 26,
+        "Carries / 80": 54
+      },
+      "Defence": {
+        "Tackles / 80": 16,
+        "Tackle success %": 77,
+        "Turnovers won / 80": 55
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 2
+      }
+    }
+  },
+  {
+    "id": "liam-hallam-eames",
+    "name": "Liam Hallam-Eames",
+    "provider": "RuckMob",
+    "providerPlayerId": "liam-hallam-eames",
+    "sourceUrl": "https://ruckmob.com/players/liam-hallam-eames",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 6,
+    "sampleMinutes": 231,
+    "referenceGroup": "locks",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 3.1,
+      "Carries / 80": 6.2,
+      "Tackles / 80": 12.8,
+      "Tackle success %": 88,
+      "Turnovers won / 80": 0,
+      "Penalties conceded / 80": 0.35
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 1,
+        "Carries / 80": 17
+      },
+      "Defence": {
+        "Tackles / 80": 35,
+        "Tackle success %": 31,
+        "Turnovers won / 80": 12
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 75
+      }
+    }
+  },
+  {
+    "id": "tai-cribb",
+    "name": "Tai Cribb",
+    "provider": "RuckMob",
+    "providerPlayerId": "tai-cribb",
+    "sourceUrl": "https://ruckmob.com/players/tai-cribb",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 10,
+    "sampleMinutes": 705,
+    "referenceGroup": "locks",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 8.3,
+      "Carries / 80": 7.8,
+      "Tackles / 80": 13.2,
+      "Tackle success %": 89,
+      "Turnovers won / 80": 0,
+      "Penalties conceded / 80": 0.34
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 26,
+        "Carries / 80": 42
+      },
+      "Defence": {
+        "Tackles / 80": 40,
+        "Tackle success %": 35,
+        "Turnovers won / 80": 12
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 79
+      }
+    }
+  },
+  {
+    "id": "titi-nofoagatotoa",
+    "name": "Titi Nofoagatotoa",
+    "provider": "RuckMob",
+    "providerPlayerId": "titi-nofoagatotoa",
+    "sourceUrl": "https://ruckmob.com/players/titi-nofoagatotoa",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 442,
+    "referenceGroup": "back rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 21.9,
+      "Carries / 80": 12.9,
+      "Tackles / 80": 14.8,
+      "Tackle success %": 94,
+      "Turnovers won / 80": 0.54,
+      "Penalties conceded / 80": 0.91
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 30,
+        "Carries / 80": 83
+      },
+      "Defence": {
+        "Tackles / 80": 62,
+        "Tackle success %": 85,
+        "Turnovers won / 80": 54
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 32
+      }
+    }
+  },
+  {
+    "id": "caleb-woodley",
+    "name": "Caleb Woodley",
+    "provider": "RuckMob",
+    "providerPlayerId": "caleb-woodley",
+    "sourceUrl": "https://ruckmob.com/players/caleb-woodley",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 6,
+    "sampleMinutes": 391,
+    "referenceGroup": "back rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 19,
+      "Carries / 80": 9.6,
+      "Tackles / 80": 14.3,
+      "Tackle success %": 91,
+      "Turnovers won / 80": 0.61,
+      "Penalties conceded / 80": 1.23
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 22,
+        "Carries / 80": 40
+      },
+      "Defence": {
+        "Tackles / 80": 54,
+        "Tackle success %": 45,
+        "Turnovers won / 80": 60
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 5
+      }
+    }
+  },
+  {
+    "id": "bryn-gordon",
+    "name": "Bryn Gordon",
+    "provider": "RuckMob",
+    "providerPlayerId": "bryn-gordon",
+    "sourceUrl": "https://ruckmob.com/players/bryn-gordon",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 11,
+    "sampleMinutes": 689,
+    "referenceGroup": "front rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 24.2,
+      "Carries / 80": 10,
+      "Tackles / 80": 12.8,
+      "Tackle success %": 83,
+      "Turnovers won / 80": 0.58,
+      "Penalties conceded / 80": 0.46
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 88,
+        "Carries / 80": 78
+      },
+      "Defence": {
+        "Tackles / 80": 38,
+        "Tackle success %": 10,
+        "Turnovers won / 80": 82
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 81
+      }
+    }
+  },
+  {
+    "id": "tristyn-cook",
+    "name": "Tristyn Cook",
+    "provider": "RuckMob",
+    "providerPlayerId": "tristyn-cook",
+    "sourceUrl": "https://ruckmob.com/players/tristyn-cook",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 8,
+    "sampleMinutes": 624,
+    "referenceGroup": "locks",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 20.4,
+      "Carries / 80": 10.9,
+      "Tackles / 80": 16,
+      "Tackle success %": 98,
+      "Turnovers won / 80": 0.77,
+      "Penalties conceded / 80": 0.38
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 86,
+        "Carries / 80": 90
+      },
+      "Defence": {
+        "Tackles / 80": 81,
+        "Tackle success %": 99,
+        "Turnovers won / 80": 95
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 69
+      }
+    }
+  },
+  {
+    "id": "jack-lee",
+    "name": "Jack Lee",
+    "provider": "RuckMob",
+    "providerPlayerId": "jack-lee",
+    "sourceUrl": "https://ruckmob.com/players/jack-lee",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 641,
+    "referenceGroup": "locks",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 14.7,
+      "Carries / 80": 7.6,
+      "Tackles / 80": 16.2,
+      "Tackle success %": 94,
+      "Turnovers won / 80": 0.25,
+      "Penalties conceded / 80": 0.37
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 62,
+        "Carries / 80": 33
+      },
+      "Defence": {
+        "Tackles / 80": 86,
+        "Tackle success %": 74,
+        "Turnovers won / 80": 51
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 72
+      }
+    }
+  },
+  {
+    "id": "jed-melvin",
+    "name": "Jed Melvin",
+    "provider": "RuckMob",
+    "providerPlayerId": "jed-melvin",
+    "sourceUrl": "https://ruckmob.com/players/jed-melvin",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 634,
+    "referenceGroup": "back rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 42.5,
+      "Carries / 80": 16.2,
+      "Tackles / 80": 13.8,
+      "Tackle success %": 92,
+      "Turnovers won / 80": 0.76,
+      "Penalties conceded / 80": 0.63
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 83,
+        "Carries / 80": 95
+      },
+      "Defence": {
+        "Tackles / 80": 42,
+        "Tackle success %": 55,
+        "Turnovers won / 80": 70
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 56
+      }
+    }
+  },
+  {
+    "id": "kaylum-boshier",
+    "name": "Kaylum Boshier",
+    "provider": "RuckMob",
+    "providerPlayerId": "kaylum-boshier",
+    "sourceUrl": "https://ruckmob.com/players/kaylum-boshier",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 8,
+    "sampleMinutes": 523,
+    "referenceGroup": "back rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 22.2,
+      "Carries / 80": 7.8,
+      "Tackles / 80": 15.9,
+      "Tackle success %": 93,
+      "Turnovers won / 80": 1.22,
+      "Penalties conceded / 80": 0.92
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 32,
+        "Carries / 80": 24
+      },
+      "Defence": {
+        "Tackles / 80": 71,
+        "Tackle success %": 68,
+        "Turnovers won / 80": 88
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 30
+      }
+    }
+  },
+  {
+    "id": "mosese-bason",
+    "name": "Mosese Bason",
+    "provider": "RuckMob",
+    "providerPlayerId": "mosese-bason",
+    "sourceUrl": "https://ruckmob.com/players/mosese-bason",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 515,
+    "referenceGroup": "back rows",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 23.3,
+      "Carries / 80": 8.1,
+      "Tackles / 80": 16.2,
+      "Tackle success %": 92,
+      "Turnovers won / 80": 1.09,
+      "Penalties conceded / 80": 0.93
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 39,
+        "Carries / 80": 27
+      },
+      "Defence": {
+        "Tackles / 80": 74,
+        "Tackle success %": 60,
+        "Turnovers won / 80": 85
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 29
+      }
+    }
+  },
+  {
+    "id": "tom-barham",
+    "name": "Tom Barham",
+    "provider": "RuckMob",
+    "providerPlayerId": "tom-barham",
+    "sourceUrl": "https://ruckmob.com/players/tom-barham",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 11,
+    "sampleMinutes": 880,
+    "referenceGroup": "centres",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 44.6,
+      "Clean breaks / 80": 1.2,
+      "Defenders beaten / carry": 0.33,
+      "Try involvements / 80": 0.73,
+      "Tackles / 80": 6.6,
+      "Tackle success %": 86,
+      "Penalties conceded / 80": 0.55,
+      "Turnovers lost / 10 touches": 0.9
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 71,
+        "Clean breaks / 80": 95,
+        "Defenders beaten / carry": 77,
+        "Try involvements / 80": 81
+      },
+      "Defence": {
+        "Tackles / 80": 19,
+        "Tackle success %": 79
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 39,
+        "Turnovers lost / 10 touches": 13
+      }
+    }
+  },
+  {
+    "id": "logan-henry",
+    "name": "Logan Henry",
+    "provider": "RuckMob",
+    "providerPlayerId": "logan-henry",
+    "sourceUrl": "https://ruckmob.com/players/logan-henry",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 10,
+    "sampleMinutes": 542,
+    "referenceGroup": "scrumhalves",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 24.1,
+      "Clean breaks / 80": 0,
+      "Defenders beaten / carry": 0.25,
+      "Try involvements / 80": 0.74,
+      "Tackles / 80": 9,
+      "Tackle success %": 75,
+      "Penalties conceded / 80": 0.44,
+      "Turnovers lost / 10 touches": 0.14
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 64,
+        "Clean breaks / 80": 13,
+        "Defenders beaten / carry": 60,
+        "Try involvements / 80": 32
+      },
+      "Defence": {
+        "Tackles / 80": 68,
+        "Tackle success %": 29
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 40,
+        "Turnovers lost / 10 touches": 64
+      }
+    }
+  },
+  {
+    "id": "george-worboys",
+    "name": "George Worboys",
+    "provider": "RuckMob",
+    "providerPlayerId": "george-worboys",
+    "sourceUrl": "https://ruckmob.com/players/george-worboys",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 8,
+    "sampleMinutes": 433,
+    "referenceGroup": "flyhalves",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 35.3,
+      "Clean breaks / 80": 0.4,
+      "Defenders beaten / carry": 0.17,
+      "Try involvements / 80": 0.74,
+      "Tackles / 80": 4.1,
+      "Tackle success %": 67,
+      "Penalties conceded / 80": 0.18,
+      "Turnovers lost / 10 touches": 0.67
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 40,
+        "Clean breaks / 80": 40,
+        "Defenders beaten / carry": 40,
+        "Try involvements / 80": 55
+      },
+      "Defence": {
+        "Tackles / 80": 25,
+        "Tackle success %": 20
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 60,
+        "Turnovers lost / 10 touches": 5
+      }
+    }
+  },
+  {
+    "id": "reece-macdonald",
+    "name": "Reece MacDonald",
+    "provider": "RuckMob",
+    "providerPlayerId": "reece-macdonald",
+    "sourceUrl": "https://ruckmob.com/players/reece-macdonald",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 657,
+    "referenceGroup": "fullbacks",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 63.1,
+      "Clean breaks / 80": 0.6,
+      "Defenders beaten / carry": 0.4,
+      "Try involvements / 80": 0.61,
+      "Tackles / 80": 3.2,
+      "Tackle success %": 70,
+      "Penalties conceded / 80": 0.12,
+      "Turnovers lost / 10 touches": 0.44
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 56,
+        "Clean breaks / 80": 39,
+        "Defenders beaten / carry": 74,
+        "Try involvements / 80": 44
+      },
+      "Defence": {
+        "Tackles / 80": 44,
+        "Tackle success %": 39
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 69,
+        "Turnovers lost / 10 touches": 99
+      }
+    }
+  },
+  {
+    "id": "drew-wild",
+    "name": "Drew Wild",
+    "provider": "RuckMob",
+    "providerPlayerId": "drew-wild",
+    "sourceUrl": "https://ruckmob.com/players/drew-wild",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 590,
+    "referenceGroup": "fullbacks",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 54.8,
+      "Clean breaks / 80": 0.7,
+      "Defenders beaten / carry": 0.3,
+      "Try involvements / 80": 0.14,
+      "Tackles / 80": 5.7,
+      "Tackle success %": 86,
+      "Penalties conceded / 80": 0.14,
+      "Turnovers lost / 10 touches": 0.64
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 35,
+        "Clean breaks / 80": 48,
+        "Defenders beaten / carry": 52,
+        "Try involvements / 80": 5
+      },
+      "Defence": {
+        "Tackles / 80": 91,
+        "Tackle success %": 93
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 61,
+        "Turnovers lost / 10 touches": 52
+      }
+    }
+  },
+  {
+    "id": "sam-clarke",
+    "name": "Sam Clarke",
+    "provider": "RuckMob",
+    "providerPlayerId": "sam-clarke",
+    "sourceUrl": "https://ruckmob.com/players/sam-clarke",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 12,
+    "sampleMinutes": 633,
+    "referenceGroup": "flyhalves",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 37,
+      "Clean breaks / 80": 0.3,
+      "Defenders beaten / carry": 0.47,
+      "Try involvements / 80": 0.38,
+      "Tackles / 80": 5.3,
+      "Tackle success %": 84,
+      "Penalties conceded / 80": 0.25,
+      "Turnovers lost / 10 touches": 0.4
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 45,
+        "Clean breaks / 80": 30,
+        "Defenders beaten / carry": 99,
+        "Try involvements / 80": 25
+      },
+      "Defence": {
+        "Tackles / 80": 60,
+        "Tackle success %": 85
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 30,
+        "Turnovers lost / 10 touches": 80
+      }
+    }
+  },
+  {
+    "id": "allan-craig",
+    "name": "Allan Craig",
+    "provider": "RuckMob",
+    "providerPlayerId": "allan-craig",
+    "sourceUrl": "https://ruckmob.com/players/allan-craig",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 12,
+    "sampleMinutes": 838,
+    "referenceGroup": "locks",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 10.8,
+      "Carries / 80": 4.5,
+      "Tackles / 80": 12.3,
+      "Tackle success %": 87,
+      "Turnovers won / 80": 0.21,
+      "Penalties conceded / 80": 0.21
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 31,
+        "Carries / 80": 3
+      },
+      "Defence": {
+        "Tackles / 80": 24,
+        "Tackle success %": 19,
+        "Turnovers won / 80": 45
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 95
+      }
+    }
+  },
+  {
+    "id": "naitoa-ah-kuoi",
+    "name": "Naitoa Ah Kuoi",
+    "provider": "RuckMob",
+    "providerPlayerId": "naitoa-ah-kuoi",
+    "sourceUrl": "https://ruckmob.com/players/naitoa-ah-kuoi",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 720,
+    "referenceGroup": "locks",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 15,
+      "Carries / 80": 9.4,
+      "Tackles / 80": 10,
+      "Tackle success %": 85,
+      "Turnovers won / 80": 0.89,
+      "Penalties conceded / 80": 0.33
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 67,
+        "Carries / 80": 74
+      },
+      "Defence": {
+        "Tackles / 80": 1,
+        "Tackle success %": 10,
+        "Turnovers won / 80": 97
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 81
+      }
+    }
+  },
+  {
+    "id": "harlyn-saunoa",
+    "name": "Harlyn Saunoa",
+    "provider": "RuckMob",
+    "providerPlayerId": "harlyn-saunoa",
+    "sourceUrl": "https://ruckmob.com/players/harlyn-saunoa",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 7,
+    "sampleMinutes": 410,
+    "referenceGroup": "wings",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 59.3,
+      "Clean breaks / 80": 1,
+      "Defenders beaten / carry": 0.47,
+      "Try involvements / 80": 0.78,
+      "Tackles / 80": 4.7,
+      "Tackle success %": 67,
+      "Penalties conceded / 80": 0.39,
+      "Turnovers lost / 10 touches": 1.85
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 79,
+        "Clean breaks / 80": 51,
+        "Defenders beaten / carry": 92,
+        "Try involvements / 80": 69
+      },
+      "Defence": {
+        "Tackles / 80": 23,
+        "Tackle success %": 11
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 41,
+        "Turnovers lost / 10 touches": 3
+      }
+    }
+  },
+  {
+    "id": "heremaia-murray",
+    "name": "Heremaia Murray",
+    "provider": "RuckMob",
+    "providerPlayerId": "heremaia-murray",
+    "sourceUrl": "https://ruckmob.com/players/heremaia-murray",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 12,
+    "sampleMinutes": 880,
+    "referenceGroup": "centres",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 39.7,
+      "Clean breaks / 80": 0.7,
+      "Defenders beaten / carry": 0.23,
+      "Try involvements / 80": 0.55,
+      "Tackles / 80": 8.7,
+      "Tackle success %": 84,
+      "Penalties conceded / 80": 0.3,
+      "Turnovers lost / 10 touches": 0.78
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 57,
+        "Clean breaks / 80": 64,
+        "Defenders beaten / carry": 37,
+        "Try involvements / 80": 57
+      },
+      "Defence": {
+        "Tackles / 80": 59,
+        "Tackle success %": 69
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 77,
+        "Turnovers lost / 10 touches": 27
+      }
+    }
+  },
+  {
+    "id": "brady-rush",
+    "name": "Brady Rush",
+    "provider": "RuckMob",
+    "providerPlayerId": "brady-rush",
+    "sourceUrl": "https://ruckmob.com/players/brady-rush",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 710,
+    "referenceGroup": "wings",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 48.9,
+      "Clean breaks / 80": 0.9,
+      "Defenders beaten / carry": 0.29,
+      "Try involvements / 80": 0.56,
+      "Tackles / 80": 8.5,
+      "Tackle success %": 89,
+      "Penalties conceded / 80": 0.63,
+      "Turnovers lost / 10 touches": 1.39
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 56,
+        "Clean breaks / 80": 46,
+        "Defenders beaten / carry": 39,
+        "Try involvements / 80": 46
+      },
+      "Defence": {
+        "Tackles / 80": 99,
+        "Tackle success %": 97
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 5,
+        "Turnovers lost / 10 touches": 21
+      }
+    }
+  },
+  {
+    "id": "hudson-creighton",
+    "name": "Hudson Creighton",
+    "provider": "RuckMob",
+    "providerPlayerId": "hudson-creighton",
+    "sourceUrl": "https://ruckmob.com/players/hudson-creighton",
+    "season": "NPC 2026",
+    "checkedAt": "2026-10-21",
+    "sampleGames": 9,
+    "sampleMinutes": 596,
+    "referenceGroup": "centres",
+    "percentileBasis": "provider_same_competition_season_position_group",
+    "metrics": {
+      "Metres / 80": 19.3,
+      "Clean breaks / 80": 0.3,
+      "Defenders beaten / carry": 0.16,
+      "Try involvements / 80": 0.54,
+      "Tackles / 80": 6.8,
+      "Tackle success %": 82,
+      "Penalties conceded / 80": 0.13,
+      "Turnovers lost / 10 touches": 0.56
+    },
+    "percentiles": {
+      "Attack": {
+        "Metres / 80": 9,
+        "Clean breaks / 80": 13,
+        "Defenders beaten / carry": 17,
+        "Try involvements / 80": 53
+      },
+      "Defence": {
+        "Tackles / 80": 21,
+        "Tackle success %": 61
+      },
+      "Discipline": {
+        "Penalties conceded / 80": 89,
+        "Turnovers lost / 10 touches": 57
+      }
+    }
+  }
+]
